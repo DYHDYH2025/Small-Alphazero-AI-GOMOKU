@@ -1,0 +1,1 @@
+# Small-Alphazero-AI-GOMOKU
